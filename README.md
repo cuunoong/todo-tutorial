@@ -80,8 +80,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Thank you for checking out this project! Don’t forget to **star** the repo if you find it useful.
-
-```
-
-Let me know if you want to add or modify anything! 😊
-```
